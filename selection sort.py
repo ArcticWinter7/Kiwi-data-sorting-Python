@@ -2,8 +2,9 @@
 # Sort 
 import sys 
 A = [64, 25, 12, 22, 11] 
-  
 # Traverse through all array elements 
+#ignore this comment
+
 for i in range(len(A)): 
       
     # Find the minimum element in remaining  
