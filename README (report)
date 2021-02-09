@@ -1,0 +1,4 @@
+regarding the execution times of each sorting method, both seem to have an extremely high ammount of inconsistency.
+The bubble sorting method seems to take anywhere from 0.4(2sf) seconds and 0.9(2sf) seconds to execute
+the selection sorting method takes between 0.32(3sf) and 0.42(3sf) seconds to execute.
+it seems that on average, the selection sorting method is more consistant and executes faster than the bubble sorting method

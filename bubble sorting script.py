@@ -30,5 +30,4 @@ for i in range(len(arr)):
 end = time.time()
 totaltime = end - start
 timestring = str(totaltime)
-
 print("the program took: " + timestring + " to execute")
